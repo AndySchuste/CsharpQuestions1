@@ -1,6 +1,6 @@
 # CsharpQuestions1
-1. Q: What is a namespace?
-  A name
+Q: What is a namespace?
+A name
 Q: What are value types?
 Q: What are reference types?
 Q: What is an automatic property and how is it useful?
