@@ -7,15 +7,20 @@ Q: What are value types?
 Variables that store actual values inside of them. Examples are int, double, char, etc.
 
 Q: What are reference types?
+
 A stored value rather than holding a value inside of its self. Examples an object, string, etc.
 
 Q: What is an automatic property and how is it useful?
+
 A property that is built in to the C# compiler. This is seen in get and set methods and is type safe while leading to faster and shorter code.
 
 Q: What is the purpose of using statement?
+
 Used to decide which namespace is going to be used for the program.
 
 Q: What are dynamic type variables?
+
+
 
 
 Q: What is the purpose of the is operator?
@@ -99,8 +104,12 @@ Q: What is an access specifier?
 Q: What access specifiers are supported and what do they mean?
 
 
+
+
 Q: What is a collection?
+
 A way to store variables that can be taken out or put into the collection. Some examples are Stacks, Arraylists, Queues, etc.
 
 Q: What is a Hash Table?
+
 A Hash Table is a structure that maps keys to specific values.
