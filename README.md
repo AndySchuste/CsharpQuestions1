@@ -1,7 +1,9 @@
 Q: What is a namespace?
+
 A namespace is used to organize classes. For example system is a namespace and the console is a class in that namespace.
 
 Q: What are value types?
+
 Variables that store actual values inside of them. Examples are int, double, char, etc.
 
 Q: What are reference types?
