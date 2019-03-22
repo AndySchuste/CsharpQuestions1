@@ -35,7 +35,7 @@ Q: What is a nullable type and what purpose does it serve?
 
 
 Q: What is an enumeration?
-
+ 
 
 Q: What is inheritance?
 
