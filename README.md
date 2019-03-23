@@ -60,6 +60,7 @@ No
 
 Q: What is the purpose of as operator
 
+Acts to set compatible value types as one another.
 
 Q: What is an object?
 
@@ -70,21 +71,26 @@ Q: What is the difference between a struct and a class?
 
 Q: What is the difference between continue and break statements?
 
+Continue statements let the code go on while a break statement ends the code 
 
 Q: What is this and how is it used?
 
 
 Q: What is try and catch and when are they used?
 
+Try is used to attempt to read the code and catch is used to catch the exception
 
 Q: How is exception handling done?
 
+By using specific statements such as the Try statement
 
 Q: What is finally and what is its purpose?
 
+Finally is ran after the inital code and is used to catch exceptions
 
 Q: List the differences between Array and ArrayList.
 
+An Array needs to know how many objects it is going to hold when an ArrayList is more flexible becuase the code does not have to be defined as to how many objects it can hold.
 
 
 Q: What is an object?
@@ -93,6 +99,8 @@ It is able to hold any value, reference, or dynamic type
 
 
 Q: Define constructor.
+
+Special method of the class that contains the set of instructions for an object when it is created.
 
 
 Q: When can var be used to declare a variable and how is the type for the variable determined?
