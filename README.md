@@ -27,11 +27,11 @@ Q: What is the purpose of the is operator?
 Tells whether an object is of a certain type
 
 Q: What are generics and how is using them useful?
-
+Generics are ways to simplify code reuse, type safety, and to increase performance of the program. It is a class that allows the user to use methods or interfaces as a parameter.
  
 
 Q: What is the scope of a public member of a class?
-
+The scope is open to any other class in the program. Public allows a member to be accessed throughout the program.
 
 
 Q: Can you create a function that can accept a varying number of arguments?
@@ -43,11 +43,13 @@ Q: How do you sort an array?
 ArrayName.Sort 
 
 Q: What is a nullable type and what purpose does it serve?
-
+Nullable types allow the user to set a variable to a null value as well as a normal positive or negative value
 
 
 Q: What is an enumeration?
- 
+A type of reference that allows the user to set specific values as named constants. An example would be enum Gender that contains Male or Female.
+
+
 
 Q: What is inheritance?
 
@@ -72,8 +74,6 @@ Q: What is the difference between a struct and a class?
 Q: What is the difference between continue and break statements?
 
 Continue statements let the code go on while a break statement ends the code 
-
-Q: What is this and how is it used?
 
 
 Q: What is try and catch and when are they used?
@@ -133,6 +133,7 @@ Keywords that specify what level of access the variable can be seen/reached from
 
 
 Q: What access specifiers are supported and what do they mean?
+Keywords in object-oriented languages that set the accessibility of classes, methods, and other members
 
 
 
