@@ -136,8 +136,6 @@ Q: What access specifiers are supported and what do they mean?
 Keywords in object-oriented languages that set the accessibility of classes, methods, and other members
 
 
-
-
 Q: What is a collection?
 
 A way to store variables that can be taken out or put into the collection. Some examples are Stacks, Arraylists, Queues, etc.
